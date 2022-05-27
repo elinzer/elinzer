@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elinzer El Linzer, prononuns = they/them
 - 👀 I’m interested in learning all about coding!
 - 🌱 I’m currently learning all the coding languages!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ elinzer5 @ gmail dot com
 
 <!---
