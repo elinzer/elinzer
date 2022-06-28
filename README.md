@@ -1,6 +1,6 @@
 - 👋 Hi, I’m El Linzer, prononuns = they/them
 - 👀 I’m interested in learning all about coding!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and HTML/CSS
 - 📫 How to reach me @ elinzer5 @ gmail dot com
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/elinzer/" target="_blank">LinkedIn</a>
 <!---
