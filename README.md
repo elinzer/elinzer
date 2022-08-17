@@ -1,5 +1,5 @@
 - 👋 Hi, I’m El Linzer, prononuns = they/them
-- 🌱 I’m currently learning JavaScript, HTML/CSS, Express, SQL, and Sequelize!
+- 🌱 I’m currently learning React and Redux!
 - 📫 How to reach me @ elinzer5 @ gmail dot com
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/elinzer/" target="_blank">LinkedIn</a>
 <!---
