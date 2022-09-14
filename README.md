@@ -1,5 +1,5 @@
 - 👋 Hi, I’m El Linzer, prononuns = they/them
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Python, Flask, and SQLAlchemy!
 - 📚 I have experience with JavaScript, HTML/CSS, SQL, Sequelize, Express, React, and Redux.
 - 📫 How to reach me @ elinzer5 @ gmail dot com
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/elinzer/" target="_blank">LinkedIn</a>
