@@ -1,5 +1,5 @@
 ### About
-Hi there, my name is El Linzer (they/them/theirs) and I recently made the best decision ever to become a software engineer!
+Hi there, my name is El Linzer (they/them/theirs) and I recently made the best decision ever to become a software engineer! I love creating new applications and features, fixing bugs, and overall problem-solving. When I'm not accidentally (or purposefully) breaking my own projects, I enjoy reading, playing video games, and chatting with my cats.
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
