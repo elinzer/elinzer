@@ -26,3 +26,7 @@ Hi there, my name is El Linzer (they/them/theirs) and I recently made the best d
 elinzer/elinzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Fun Stuff
+#### Leetcode Stats:
+[![Leetcode Stats](https://leetcard.jacoblin.cool/elinzer?theme=unicorn&font=Epilogue&hide=ranking)](https://leetcode.com/elinzer)
