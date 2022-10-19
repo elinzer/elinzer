@@ -1,7 +1,7 @@
-### About
+### About:
 Hi there, my name is El Linzer (they/them/theirs) and I recently made the best decision ever to become a software engineer! I love creating new applications and features, fixing bugs, and overall problem-solving. When I'm not accidentally (or purposefully) breaking my own projects, I enjoy reading, playing video games, and chatting with my cats.
 
-### Languages and Tools
+### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -19,7 +19,7 @@ Hi there, my name is El Linzer (they/them/theirs) and I recently made the best d
 
 
 
-### Contact
+### Contact:
 <a href='mailto:elinzer5@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/elinzer/' target='_blank'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!---
@@ -27,6 +27,8 @@ elinzer/elinzer is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Fun Stuff
+### Fun Stuff:
+#### Github Stats:
+[![El's GitHub stats](https://github-readme-stats.vercel.app/api?username=elinzer&show_icons=true&theme=tokyonight)](https://github.com/elinzer/github-readme-stats)
 #### Leetcode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/elinzer?theme=unicorn&font=Epilogue&hide=ranking)](https://leetcode.com/elinzer)
