@@ -1,5 +1,5 @@
 ### About:
-Hi there, my name is El Linzer (they/them/theirs) and I recently made the best decision ever to become a software engineer! I love creating new applications and features, fixing bugs, and overall problem-solving. When I'm not accidentally (or purposefully) breaking my own projects, I enjoy reading, playing video games, and chatting with my cats.
+Hi there, my name is El Linzer (they/them/theirs) and I recently made the best decision ever to become a software engineer! I love creating new applications and features, fixing bugs, and overall problem-solving. I care deeply about helping people, however I can! When I'm not accidentally (or purposefully) breaking my own projects, I enjoy reading, playing video games, and chatting with my cats.
 
 ### Currently Working On:
 I am currently improving my SoundCloud clone site (NotSoundCloud)
