@@ -2,7 +2,7 @@
 Hi there, my name is El Linzer and I recently made the best decision ever to become a software engineer! I love creating new applications and features, fixing bugs, and overall problem-solving. I care deeply about helping people however I can! When I'm not accidentally (or purposefully) breaking my own projects, I enjoy reading, playing video games, and chatting with my cats. I am also an advanced yellow belt in Seido Karate. Osu!
 
 ### Currently Working On:
-I am currently working on my site, <a href="https://github.com/elinzer/LGBTees">LGBTees!</a> 🤩
+I am currently working on my newest site, <a href="https://github.com/elinzer/LGBTees">LGBTees!</a> 🤩
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
