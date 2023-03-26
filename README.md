@@ -23,7 +23,6 @@ I am currently working on my newest site, <a href="https://github.com/elinzer/LG
 
 
 ### Contact:
-<a href='mailto:elinzer5@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/elinzer/' target='_blank'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href='https://angel.co/u/el-linzer' target='_blank'>![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
 <!---
