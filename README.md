@@ -39,6 +39,3 @@ You can click the Preview link to take a look at your changes.
 
 #### Codewars Stats:
 <img src='https://www.codewars.com/users/elinzer/badges/large' />
-
-#### Leetcode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/elinzer?theme=unicorn&font=Epilogue&hide=ranking)](https://leetcode.com/elinzer)
