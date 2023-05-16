@@ -31,11 +31,11 @@ elinzer/elinzer is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Fun Stuff:
+<!--- ### Fun Stuff:
 #### Github Stats:
 [![El's GitHub stats](https://github-readme-stats.vercel.app/api?username=elinzer&show_icons=true&theme=tokyonight)](https://github.com/elinzer/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elinzer&layout=compact&theme=tokyonight)](https://github.com/elinzer/github-readme-stats)
 
 #### Codewars Stats:
-<img src='https://www.codewars.com/users/elinzer/badges/large' />
+<img src='https://www.codewars.com/users/elinzer/badges/large' /> --->
