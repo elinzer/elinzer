@@ -29,7 +29,6 @@ I am currently a Project Engineer I at SpotHero! 🚙
 
 ### Contact:
 <a href='https://www.linkedin.com/in/elinzer/' target='_blank'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href='https://angel.co/u/el-linzer' target='_blank'>![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
 <!---
 elinzer/elinzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
